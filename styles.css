@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: brown;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.business-card {
+  background-color: #0b1f54;
+  width: 300px;
+  padding: 20px;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profile-image {
+  max-width: 100%;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  color: pink;
+}
+a:active {
+  color: white;
+}
+a:visited {
+  color: green;
+}
+h2 {
+  color: rosybrown;
+}
+p {
+  color: white;
+}
+hr {
+  height: 2px;
+  background-color: rosybrown;
+  border-color: rosybrown;
+}
+.full-name {
+  font-size: 20px;
+}
