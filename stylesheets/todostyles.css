@@ -1,3 +1,10 @@
+body {
+  display: flex;
+  background-color: gray;
+
+  justify-content: center;
+}
+
 a {
   text-decoration: none;
   color: white;
@@ -25,6 +32,8 @@ li {
   background-color: black;
   padding: 5px;
   list-style-type: none;
+  width: 50%;
+  margin: 100px;
 }
 h1 {
   color: gold;
@@ -32,7 +41,4 @@ h1 {
 .sub-item li {
   margin-top: 10px;
   list-style-type: disc;
-}
-body {
-  background-color: purple;
 }
