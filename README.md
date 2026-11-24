@@ -2,20 +2,12 @@ FreeCodeCamp has helped me stay sharp with my programming fundamentals and pick 
 
 I like using these projects as a way to test what I’ve learned, try new things, and just keep my skills fresh.
 
-💡 What’s Inside
+ What’s Inside
 
 A bunch of JavaScript, HTML, and CSS labs
 
-Each one built to sharpen my logic and problem-solving
-
 Updated whenever I finish something new
 
-🔥 Some of My Favorites
+My Favorites
 
 fortune-teller.js
-
-⚡ Why I Keep Doing It
-
-Because staying consistent beats being perfect. Every lab pushes me a little further — and that’s what it’s all about.
-
-Always building. Always improving.
